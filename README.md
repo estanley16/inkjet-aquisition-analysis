@@ -1,4 +1,4 @@
-# inkjet_aquisition_analysis
+# Automated Labeling of Inkjet-Printed Cells for Training of a Deep Learning Cell Excapsulation Classifier
 
 My first coding project, developed for my undergraduate thesis
 
